@@ -1,9 +1,14 @@
 # Human-Activity-Recognization
 This repositary belongs to Human Activity Recognization case study
 
+![HAR](/images/har.png)
+
 Dataset is available at https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones
 
-Case Study Flow:-
+## Objective :
+Is to predict human activity based on given time series data.
+
+## Case Study Flow:-
 ===================
 1. For the given case study, we have provided with both processed data and raw data from sensors.
 2. We used processed data that was already featurized to build various machine learning models.
@@ -17,3 +22,10 @@ Case Study Flow:-
 10. Best result was found in case of LSTM(128) wit dropout of 0.6. We got accuracy of 91.82%
 11. Also checked with single Layer LSTM(64) with droput varying from 0.2 to 0.6.
 12. In every case , we found that dicrease in dropout rate was leading to model overfitting which is as expected.
+
+## Results:
+![Results](/images/results.png)
+
+## Conclusions:
+* Best accuracy of 91.82% found for configuration of LSTM(128) with dropout rate of 0.6
+* Overfitting in model observed with dicrease in dropout as expected
