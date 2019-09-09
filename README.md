@@ -8,8 +8,10 @@ Dataset is available at https://www.kaggle.com/uciml/human-activity-recognition-
 ## Objective :
 Is to predict human activity based on given time series data.
 
-## Case Study Flow:-
-===================
+## Blog:
+A detailed blog bost regarding this case study can be found here https://medium.com/@raman.shinde15/understanding-sequential-timeseries-data-for-lstm-4da78021ecd7
+
+## Case Study Flow:
 1. For the given case study, we have provided with both processed data and raw data from sensors.
 2. We used processed data that was already featurized to build various machine learning models.
 3. Eda was done on subject to check the various activity performed by them. We have got almost same number of reading from all the subjects.
