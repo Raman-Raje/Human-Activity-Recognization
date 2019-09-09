@@ -24,7 +24,7 @@ Is to predict human activity based on given time series data.
 12. In every case , we found that dicrease in dropout rate was leading to model overfitting which is as expected.
 
 ## Results:
-![Results](/images/results.png)
+![Results](/images/results.PNG)
 
 ## Conclusions:
 * Best accuracy of 91.82% found for configuration of LSTM(128) with dropout rate of 0.6
