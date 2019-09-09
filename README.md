@@ -9,7 +9,7 @@ Dataset is available at https://www.kaggle.com/uciml/human-activity-recognition-
 Is to predict human activity based on given time series data.
 
 ## Blog:
-A detailed blog bost regarding this case study can be found here https://medium.com/@raman.shinde15/understanding-sequential-timeseries-data-for-lstm-4da78021ecd7
+**A detailed blog bost regarding this case study can be found here https://medium.com/@raman.shinde15/understanding-sequential-timeseries-data-for-lstm-4da78021ecd7**
 
 ## Case Study Flow:
 1. For the given case study, we have provided with both processed data and raw data from sensors.
